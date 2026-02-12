@@ -43,5 +43,5 @@ I focus on **Technical Analysis** and **Systematic Trading**. My goal is to comb
 ---
 
 <div align="center">
-  <small><i>"Plan the trade, trade the plan."</i></small>
+  <small><i>"A Single Opportunity Can Make You A Fortune"</i></small>
 </div>
