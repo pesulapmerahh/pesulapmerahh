@@ -6,7 +6,7 @@
 
 I am a student based in **Kediri, East Java**, focusing on the evolution of **Modern Web Technology** and **System Environments**. 
 
-As a **Frontend **, I am dedicated to the modern web ecosystem, specifically focusing on building clean, modular, and high-performance applications that push the boundaries of user experience.
+As a **Frontend or UI/UX Designer**, I am dedicated to the modern web ecosystem, specifically focusing on building clean, modular, and high-performance applications that push the boundaries of user experience.
 
 ---
 
