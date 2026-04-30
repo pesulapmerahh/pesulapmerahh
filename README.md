@@ -4,41 +4,36 @@
 
 ### 👋 Hi there!
 
-I am a student based in **Kediri, East Java**, exploring the intersection of Financial Markets and Technology.
+I am a student based in **Kediri, East Java**, focusing on the evolution of **Modern Web Technology** and **System Environments**. 
 
-I focus on **Technical Analysis** and **Systematic Trading**. My goal is to combine logical market structure with strict risk management, using technology to optimize the process.
+As a **Frontend/Fullstack Developer**, I am dedicated to the modern web ecosystem, specifically focusing on building clean, modular, and high-performance applications that push the boundaries of user experience.
 
 ---
 
 ### 🔭 Current Focus
 
-* 🇮🇩 **Indonesian Stocks (IDX):** Learning fundamental analysis (Financial Statements, P/E, PBV).
-* 🐧 **Tech Lab:** Exploring **Ubuntu Linux** environments and PC Hardware troubleshooting.
+* ⚛️ **Modern Web Architecture:** Building scalable systems using **Next.js 16 (Canary)** and **React 19**. I specialize in transforming complex codebases into modular, reusable component architectures.
+* 🐧 **System Environments:** Managing **Ubuntu Linux** environments and exploring PC Hardware optimization and troubleshooting.
 * 📝 **Research:** Conducting academic research on student productivity (KIR MTsN 2 Kediri).
 
 ---
 
 ### 🛠️ Tech & Tools
 
+#### Development Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Technical_Analysis-Strategy-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/TradingView-Pine_Script-131722?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-Data_Logging-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js%2016-Black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
+#### Systems & Environment
 <p align="left">
-  <img src="https://img.shields.io/badge/Ubuntu-Linux_User-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware-Enthusiast-555555?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=intel&logoColor=white" />
 </p>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pesulapmerahh&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pesulapmerahh&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
 
 ---
 
